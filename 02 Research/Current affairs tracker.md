@@ -7,4 +7,6 @@
 
 # Society & Culture 
 # Technology & Media 
+[[Singapore & AI]]
+
 # Environment & Sustainability
