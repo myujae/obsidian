@@ -2,8 +2,9 @@
 ## Local
 ## International
 [[Russia-Ukraine conflict]]
+[[Forums]]
+# Economy & Trade
 
-# Economy & Trade 
 # Society & Culture 
 # Technology & Media 
 # Environment & Sustainability
