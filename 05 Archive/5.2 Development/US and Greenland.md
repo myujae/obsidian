@@ -7,7 +7,7 @@ Brief context/why it matters
 **Political** 
 **Social** 
 # Linked Concepts 
-[[]]
+[[Sovereignty]] 
 
 # Recent Updates
 
