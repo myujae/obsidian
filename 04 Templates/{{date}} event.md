@@ -8,6 +8,3 @@ Brief context/why it matters
 **Economic**
 **Political**
 **Social**
-# Linked Issues/Concepts
-
-# Source
