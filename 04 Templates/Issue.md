@@ -1,4 +1,3 @@
-#issue
 # Overview
 
 Brief context/why it matters 
