@@ -49,18 +49,24 @@
 - Recently I’ve been reading more non-fiction to understand systems, power, and social behaviour, and contextualise current events 
 
 **What topics are you interested in?** 
+- ==How social structures shape identity and opportunity==
 
 **If you had a year to study anything in the Humanities, what would it be?** 
+- Sociology 
+- Understand what shapes human behaviour 
 
+**What current issue concerns you the most, and why?** 
+- Apathy 
+- How misinformation spreads easily in an environment where people don’t always read critically. When information is consumed quickly, it becomes harder to digest it properly and have reasoned discussions. As a student, I see how easy it is to skim rather than think deeply, and that worries me because it’s important for us to understand what’s going on in society 
 
-What is an issue in society you think people are not paying enough attention to? 
-- Literacy rates (generations being less intelligent than previous ones)/intellectual laziness
+**Is there a commonly accepted belief you disagree with?** 
+- That efficiency and speed always mean progress 
+- Efficiency reduces space for reflection and ethical consideration 
 
-What current issue concerns you the most, and why? 
-
-Is there a commonly accepted belief you disagree with? 
-
-What do you think young people misunderstand about society today? 
+**What do you think young people misunderstand about society today?** 
+- They underestimate complexity and overestimate simplicity 
+- Social issues are often presented as binary when in fact they are grey areas. We know that nothing is set in black or white, nothing is wholly good or bad but this is hard to remember 
+- There’s often a desire for clear villains and quick solutions, but real societal change involves trade-offs and long-term effort 
 
 Do you think history repeats itself? 
 
