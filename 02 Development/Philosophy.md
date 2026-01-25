@@ -1,4 +1,7 @@
 - A study of our existence
-- Branches: 
+- Main branches: 
 	- Metaphysics: Studying the nature of reality 
-	- Episet
+	- Epistemology: Studying the nature and scope of knowledge 
+	- Value theory 
+		- Ethics: Studies and evaluates human conduct 
+		- Aesthetics: Studies the nature of beauty 
