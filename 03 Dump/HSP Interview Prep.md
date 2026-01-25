@@ -10,28 +10,47 @@
 - STEM solves problems; the Humanities are essential for guiding them. 
 - Humanities develop judgment, empathy, and critical thinking 
 - Without ethical judgment and historical awareness, technological progress can create harm even when intentions are good. 
-	- AI decision-making and bias  
+	- ==AI decision-making and bias==
 - In a fast-changing world, these soft skills age slower than technical skills 
 
 **What do you hope to gain from this programme that you can’t get elsewhere?** 
 - Discussion, workshops (interdisciplinary thinking), exposure to ideas 
 
 **How do you see the Humanities shaping the type of person you want to become?** 
-- Curious (critical thinking), empathetic, thoughtful 
+- Curious (critical thinking) — encourages asking why, what’s missing, whose perspective it is 
+	- Trains you to question assumptions and sources 
+	- Intellectual humility — knowing you don’t know everything 
+- Empathy through exposure to lived experiences across time, culture, and identity 
+	- Understand people before judging them/their opinions, give you are more complete picture 
 
-Are the Humanities still relevant in today’s world? Why or why not? 
+**Are the Humanities still relevant in today’s world? Why or why not?** 
+- Yes, today’s problems are increasingly human, not just technical. Modern challenges involve ethics, identity, and power
+- Rapid change makes historical and cultural perspectives more important, not less — think about consequences, value, nad meaning 
+	- ==AI ethics==
+	- ==Polarisation and misinformation== 
 
-What do the Humanities offer that AI or data cannot? 
+**What do the Humanities offer that AI or data cannot?** 
+- AI processes information while the Humanities teach you to interpret information through ethical and cultural lenses 
+- AI can analyse patterns while the Humanities deal with ambiguity, context, and lived experiences 
+- Moral responsibility must remain human 
 
-Do you think society undervalues the Humanities? Why? 
+**Do you think society undervalues the Humanities? Why?** 
+- Yes, their impact is long-term and intangible, not easily measured 
+- Value today is often defined by immediate economic return 
+- Humanities outcomes (judgment, empathy, civic responsibility) are hard to quantify. They are visible in the quality of decisions and relationships
+- However, this is changing as societies face ethical and social consequences of rapid technological growth 
 
-Can a society function well without the Humanities? 
+**Can a society function well without the Humanities?** 
+- Can function, but not flourish — systems can operate but justice, cohesion, and meaning suffer 
+- Laws and technology need moral and cultural interpretation (eg imagine ==policies that are efficient but dehumanising==)
+- Without shared values, societies become fragmented 
 
-What kind of books do you read, and why? 
+**What kind of books do you read, and why?** 
+- Recently I’ve been reading more non-fiction to understand systems, power, and social behaviour, and contextualise current events 
 
-What topics are you interested in? 
+**What topics are you interested in?** 
 
-If you had a year to study anything in the Humanities, what would it be? 
+**If you had a year to study anything in the Humanities, what would it be?** 
 
 
 What is an issue in society you think people are not paying enough attention to? 
