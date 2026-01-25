@@ -1,0 +1,4 @@
+- A study of our existence
+- Branches: 
+	- Metaphysics: Studying the nature of reality 
+	- Episet
