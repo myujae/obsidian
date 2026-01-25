@@ -49,7 +49,12 @@
 - Recently I’ve been reading more non-fiction to understand systems, power, and social behaviour, and contextualise current events 
 
 **What topics are you interested in?** 
-- ==How social structures shape identity and opportunity==
+- How social structures (eg education systems, family structures, economic systems, media and cultural norms, laws and policies) shape identity and opportunity
+	- Roles and expectations for people based on gender, class age, race etc -> influences how people see themselves 
+	- Narratives and representation — media and education signal whose stories matter; underrepresentation affects self-worth and aspiration (eg if certain groups are rarely portrayed as leaders fewer people imagine themselves as one)
+	- Language and labels shaping self-perception 
+	- Opportunity — access to resources (early advantages compound over time), gatekeeping
+	- Feedback 
 
 **If you had a year to study anything in the Humanities, what would it be?** 
 - Sociology 
@@ -68,13 +73,23 @@
 - Social issues are often presented as binary when in fact they are grey areas. We know that nothing is set in black or white, nothing is wholly good or bad but this is hard to remember 
 - There’s often a desire for clear villains and quick solutions, but real societal change involves trade-offs and long-term effort 
 
-Do you think history repeats itself? 
+**Do you think history repeats itself?** 
+- Patterns recur — human behaviour (power, fear, ambition) is consistent 
+- Studying history helps recognise warning signs, not predict outcomes — contexts may differ 
 
-Is progress always good? 
+**Is progress always good?** 
+- It depends on what you’re progressing towards 
+- Some forms of progress can solve problems while creating new ones 
+- Should be evaluated by human impact rather than novelty 
 
-Should freedom of speech have limits? 
+**Should freedom of speech have limits?** 
+- Yes, when speech causes clear harm or undermines the dignity and safety of others, society has a responsibility to draw limits 
+- The difficulty lies in setting limits that protect people without silencing legitimate disagreement 
 
-Is empathy something that can be taught? 
+**Is empathy something that can be taught?** 
+- Empathy can be cultivated but not imposed 
+- Exposure to perspectives builds understanding 
+- Empathy grows through reflection and engagement 
 # Discussion
 Frameworks: 
 1. Giving own view: Claim -> Reason -> Example -> Implication 
