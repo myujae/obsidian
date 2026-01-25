@@ -7,11 +7,9 @@
 # Species of Arguments 
 
 - Deductive: If your premises are true, your conclusion must be true (makes an argument [[valid]])
-	- Deductively sound argument 
+	- Entailment: If A is true, B must follow. A necessarily leads to B. 
+	- Deductively sound arguments’ premises are all true and is valid -> conclusion guaranteed to be true 
 - Inductive 
 - Abductive 
 - Argument by analogy 
 - Reductio Ad Absurdum 
-# Types of Reasoning 
-
-- Entailment: If A is true, B must follow. A necessarily leads to B. 
