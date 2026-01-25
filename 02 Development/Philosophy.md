@@ -6,4 +6,4 @@
 		- Ethics: Studying and evaluating human conduct 
 		- Aesthetics: Studying the nature of beauty 
 # Subtopics
-[[How to argue]]
+[[Argumentation]]
