@@ -3,5 +3,5 @@
 	- Metaphysics: Studying the nature of reality 
 	- Epistemology: Studying the nature and scope of knowledge 
 	- Value theory 
-		- Ethics: Studies and evaluates human conduct 
+		- Ethics: Studying and evaluates human conduct 
 		- Aesthetics: Studies the nature of beauty 
