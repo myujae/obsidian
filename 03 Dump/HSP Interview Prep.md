@@ -10,7 +10,9 @@
 - STEM solves problems; the Humanities are essential for guiding them. 
 - Humanities develop judgment, empathy, and critical thinking 
 - Without ethical judgment and historical awareness, technological progress can create harm even when intentions are good. 
-	- ==AI decision-making and bias==
+	- AI decision-making and bias — AI is trained on data from the real world. If the data reflects existing inequalities or prejudices, the AI will replicate or amplify them. Bias is often invisible to users, making it even more insidious 
+		- Eg hiring algorithms (goal: faster, fairer recruitment) — biased against women, minorities 
+		- Loan approvals (goal: quick credit decisions) — denies loans to groups with historically lower access to banking, not necessarily higher risk 
 - In a fast-changing world, these soft skills age slower than technical skills 
 
 **What do you hope to gain from this programme that you can’t get elsewhere?** 
@@ -26,8 +28,8 @@
 **Are the Humanities still relevant in today’s world? Why or why not?** 
 - Yes, today’s problems are increasingly human, not just technical. Modern challenges involve ethics, identity, and power
 - Rapid change makes historical and cultural perspectives more important, not less — think about consequences, value, nad meaning 
-	- ==AI ethics==
-	- ==Polarisation and misinformation== 
+	- AI ethics
+	- Polarisation and misinformation 
 
 **What do the Humanities offer that AI or data cannot?** 
 - AI processes information while the Humanities teach you to interpret information through ethical and cultural lenses 
@@ -42,7 +44,8 @@
 
 **Can a society function well without the Humanities?** 
 - Can function, but not flourish — systems can operate but justice, cohesion, and meaning suffer 
-- Laws and technology need moral and cultural interpretation (eg imagine ==policies that are efficient but dehumanising==)
+- Laws and technology need moral and cultural interpretation (eg imagine policies that are efficient but dehumanising)
+	- “Hostile architecture”, autonomous weapons systems 
 - Without shared values, societies become fragmented 
 
 **What kind of books do you read, and why?** 
@@ -54,7 +57,7 @@
 	- Narratives and representation — media and education signal whose stories matter; underrepresentation affects self-worth and aspiration (eg if certain groups are rarely portrayed as leaders fewer people imagine themselves as one)
 	- Language and labels shaping self-perception 
 	- Opportunity — access to resources (early advantages compound over time), gatekeeping
-	- Feedback 
+	- Feedback loop — effort matters, but it doesn’t operate on an equal playing field
 
 **If you had a year to study anything in the Humanities, what would it be?** 
 - Sociology 
