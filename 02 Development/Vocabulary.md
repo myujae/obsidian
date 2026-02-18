@@ -1,1 +1,2 @@
-[[Negate]]
+#flashcards
+Negate::hello
